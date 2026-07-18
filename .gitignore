@@ -2,18 +2,4 @@
 __pycache__/
 *.pyc
 *.pyo
-
-# Claude Code local settings
-.claude/
-CLAUDE.md
-
-# Original standalone CLI scripts (functionality now in gui/compute/)
-knowledge_base.py
-search.py
-optimization.py
-
-# Past year papers and test data
-past year questions/
-test_past_paper.py
-
 .venv/

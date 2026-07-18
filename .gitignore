@@ -15,3 +15,5 @@ optimization.py
 # Past year papers and test data
 past year questions/
 test_past_paper.py
+
+.venv/
